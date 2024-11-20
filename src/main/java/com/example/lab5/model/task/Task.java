@@ -5,7 +5,7 @@ import com.example.lab5.model.user.User;
 import jakarta.persistence.*;
 
 import java.text.SimpleDateFormat;
-import java.sql.Date;
+import java.util.Date;
 import java.util.Locale;
 
 @Entity

@@ -16,6 +16,7 @@ public class User {
     private String email;
     private Date accountCreationDate = new Date();
 
+
     private static final SimpleDateFormat sdf = new SimpleDateFormat("'Created on: 'dd/MM/yyyy HH:mm", Locale.US);
 
     public User() {}
